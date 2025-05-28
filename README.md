@@ -13,7 +13,7 @@ A command-line based Python application for managing personal finances. This too
 ## Folder Structure
 
 ```
-NEW PROJECT/
+User-Finance-Management/
 ├── auth.py            # User registration & authentication
 ├── budget.py          # Budget-related operations
 ├── database.py        # Database connection and operations
